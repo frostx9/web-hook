@@ -1,0 +1,4 @@
+Web Hook = Web hook is a user defined http call back which is triggered by event in any application
+in simple term a web hook is a way for an application to message other device or applications with 
+real time information when a certain event occurs
+
